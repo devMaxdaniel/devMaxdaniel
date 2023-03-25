@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Max.
+[![Linked In][linkedin-shield]](https://www.linkedin.com/in/max-daniel-8aa320266/)
+## About me
 
-<!--
-**devMaxdaniel/devMaxdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brazilian, currently a software engineering student, and aspiring in the technology field since 2015, during this time I worked on several personal projects, but only in 2022 did I decide to take this up as a profession, specifically as a **back-end.**
 
-Here are some ideas to get you started:
+👾 where I focused my work and study on the C# language and the .NET platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my opinion, the best project ever to develop is always the next one. I love challenges, learning new skills and programming languages. I beleiebe that there is always spare to improve ourselves.
+
+![Tech skills](img.png)
+
+---
+
+[Linkedin-shield]: https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white
