@@ -1,5 +1,5 @@
 # Hi, I'm Max.
-[![Linked In][linkedin-shield]](https://www.linkedin.com/in/max-daniel-8aa320266/)
+[![Linked In][linkedin-shield]](https://www.linkedin.com/in/devmaxdaniel)
 ## About me
 
 I'm Brazilian, currently a software engineering student, and aspiring in the technology field since 2015, during this time I worked on several personal projects, but only in 2022 did I decide to take this up as a profession, specifically as a **back-end.**
