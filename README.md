@@ -10,6 +10,5 @@ In my opinion, the best project ever to develop is always the next one. I love c
 
 ![Tech skills](img.png)
 
----
 
 [Linkedin-shield]: https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white
