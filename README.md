@@ -1,12 +1,12 @@
+Olá recrutador, recentemente perdi meu perfil mais ativo do Github, em breve atualizarei este com projetos. :)
+
 # Hi, I'm Max.
 [![Linked In][linkedin-shield]](https://www.linkedin.com/in/devmaxdaniel)
 ## About me
 
-I'm Brazilian, currently a software engineering student, and aspiring in the technology field since 2015, during this time I worked on several personal projects, but only in 2022 did I decide to take this up as a profession, specifically as a **back-end.**
-
-👾 where I focused my work and study on the C# language and the .NET platform.
-
-In my opinion, the best project ever to develop is always the next one. I love challenges, learning new skills and programming languages. I beleiebe that there is always spare to improve ourselves.
+Como desenvolvedor Backend com 1 ano de experiência, meu foco principal é a plataforma .NET e suas técnologias.
+Possuo habilidades em bancos de dados relacionais e não-relacionais, bem como em controle de versionamento com Git.
+Meu comprometimento é com o desenvolvimento de soluções de alta qualidade, performance, e arquitetura. Sempre busco aprimorar meu trabalho, aprender novas técnologias e compartilhar conhecimento com colegas, Tenho experiência em ferramentas de gestão de projetos e produtos como Github, Jira e Confluence, além de testes automatizados. Na minha opinião, o melhor projeto a ser desenvolvido é sempre o próximo. Adoro desafios, aprender novas habilidades. Acredito que sempre sobra para nos aprimorarmos.
 
 ![Tech skills](img.png)
 
